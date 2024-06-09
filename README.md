@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! I am a passionate and dedicated individual working hard in the tech industry, currently pursuing my education in data science at Lovely Professional University, Punjab. This portfolio showcases my projects, skills, and experiences.
 
-![Portfolio Image](img/Screenshot (27).png)
+[Portfolio Image](img/Screenshot (27).png)
 
 ## About Me
 
