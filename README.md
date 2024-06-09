@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! I am a passionate and dedicated individual working hard in the tech industry, currently pursuing my education in data science at Lovely Professional University, Punjab. This portfolio showcases my projects, skills, and experiences.
 
-![Portfolio Image](img/Screenshot%20(27).png)
+![Portfolio Image]('https://github.com/DiyaUpreti/My-new-portfolio/blob/main/Screenshot%20(27).png')
 
 ## About Me
 
